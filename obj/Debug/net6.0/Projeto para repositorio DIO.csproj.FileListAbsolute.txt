@@ -1,0 +1,15 @@
+C:\Users\jeffe\Desktop\Projeto para repositorio DIO\obj\Debug\net6.0\Projeto para repositorio DIO.csproj.AssemblyReference.cache
+C:\Users\jeffe\Desktop\Projeto para repositorio DIO\obj\Debug\net6.0\Projeto para repositorio DIO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jeffe\Desktop\Projeto para repositorio DIO\obj\Debug\net6.0\Projeto para repositorio DIO.AssemblyInfoInputs.cache
+C:\Users\jeffe\Desktop\Projeto para repositorio DIO\obj\Debug\net6.0\Projeto para repositorio DIO.AssemblyInfo.cs
+C:\Users\jeffe\Desktop\Projeto para repositorio DIO\obj\Debug\net6.0\Projeto para repositorio DIO.csproj.CoreCompileInputs.cache
+C:\Users\jeffe\Desktop\Projeto para repositorio DIO\bin\Debug\net6.0\Projeto para repositorio DIO.exe
+C:\Users\jeffe\Desktop\Projeto para repositorio DIO\bin\Debug\net6.0\Projeto para repositorio DIO.deps.json
+C:\Users\jeffe\Desktop\Projeto para repositorio DIO\bin\Debug\net6.0\Projeto para repositorio DIO.runtimeconfig.json
+C:\Users\jeffe\Desktop\Projeto para repositorio DIO\bin\Debug\net6.0\Projeto para repositorio DIO.dll
+C:\Users\jeffe\Desktop\Projeto para repositorio DIO\bin\Debug\net6.0\Projeto para repositorio DIO.pdb
+C:\Users\jeffe\Desktop\Projeto para repositorio DIO\obj\Debug\net6.0\Projeto para repositorio DIO.dll
+C:\Users\jeffe\Desktop\Projeto para repositorio DIO\obj\Debug\net6.0\refint\Projeto para repositorio DIO.dll
+C:\Users\jeffe\Desktop\Projeto para repositorio DIO\obj\Debug\net6.0\Projeto para repositorio DIO.pdb
+C:\Users\jeffe\Desktop\Projeto para repositorio DIO\obj\Debug\net6.0\Projeto para repositorio DIO.genruntimeconfig.cache
+C:\Users\jeffe\Desktop\Projeto para repositorio DIO\obj\Debug\net6.0\ref\Projeto para repositorio DIO.dll
